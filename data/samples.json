@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SMP-001",
+    "customerId": "CUST-016",
+    "customerName": "Bu Lexy Collection",
+    "productName": "Jaket Sample Bu Lexy",
+    "quantity": 1,
+    "vendor": "Pak Daeng",
+    "status": "In Progress",
+    "notes": "Sample Jaket dikerjakan oleh Vendor Pak Daeng.",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "SMP-002",
+    "customerId": "CUST-018",
+    "customerName": "Beard Tactical & Outdoor",
+    "productName": "Celana TB 3/4 Beard",
+    "quantity": 5,
+    "vendor": "Bu Yati",
+    "status": "In Progress",
+    "notes": "Sample Celana TB 3/4 dikerjakan oleh Vendor Bu Yati.",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "SMP-003",
+    "customerId": "CUST-008",
+    "customerName": "Jersey FAZ Apparel",
+    "productName": "Jersey Anthropology Sample",
+    "quantity": 2,
+    "vendor": "In-House",
+    "status": "Approved",
+    "notes": "Sample Jersey Anthropology 2 stel TERKIRIM & Approved.",
+    "timestamp": "2026-08-20T08:00:00.000Z",
+    "user": "Goro"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "CUST-001",
+    "name": "PT Arkato Kreasi Nusantara",
+    "company": "Arkato Brand",
+    "contact": "081234567001",
+    "address": "Bandung, Jawa Barat",
+    "status": "Active",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Mas Dan"
+  },
+  {
+    "id": "CUST-002",
+    "name": "Ibu Ariyani",
+    "company": "Ariyani Collection",
+    "contact": "081298765002",
+    "address": "Jakarta Selatan",
+    "status": "Active",
+    "timestamp": "2026-08-20T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-003",
+    "name": "Hijaberlin Official",
+    "company": "PT Hijaberlin Indonesia",
+    "contact": "081387654003",
+    "address": "Bandung, Jawa Barat",
+    "status": "Active",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-004",
+    "name": "Yayasan Babusalam",
+    "company": "Babusalam Moslem Wear",
+    "contact": "085712345004",
+    "address": "Bekasi, Jawa Barat",
+    "status": "Active",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-005",
+    "name": "Galaxy Stars Basketball Club",
+    "company": "Galaxy Stars Academy",
+    "contact": "081122334005",
+    "address": "Jakarta Barat",
+    "status": "Active",
+    "timestamp": "2026-08-18T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-006",
+    "name": "Muvaz Hijab & Wear",
+    "company": "CV Muvaz Kreasi",
+    "contact": "082134567006",
+    "address": "Yogyakarta",
+    "status": "Active",
+    "timestamp": "2026-08-05T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-007",
+    "name": "Kantor Gubernur Jawa Barat",
+    "company": "Pemerintah Provinsi Jawa Barat (KGC)",
+    "contact": "081399887007",
+    "address": "Jl. Diponegoro No. 22, Bandung",
+    "status": "Active",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Reza"
+  },
+  {
+    "id": "CUST-008",
+    "name": "Jersey FAZ Apparel",
+    "company": "FAZ Sportswear",
+    "contact": "085244556008",
+    "address": "Makassar / Bandung",
+    "status": "Active",
+    "timestamp": "2026-08-15T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-009",
+    "name": "Jersey King Official",
+    "company": "Jersey King Sublimation",
+    "contact": "087788990009",
+    "address": "Tangerang, Banten",
+    "status": "Active",
+    "timestamp": "2026-08-10T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-010",
+    "name": "Pak Ogi Project",
+    "company": "Ogi Sportswear",
+    "contact": "081877665010",
+    "address": "Depok, Jawa Barat",
+    "status": "Active",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-011",
+    "name": "Alina Moslem Wear",
+    "company": "CV Alina Mandiri",
+    "contact": "081233445011",
+    "address": "Solo, Jawa Tengah",
+    "status": "Active",
+    "timestamp": "2026-08-25T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-012",
+    "name": "Komunitas Yasin",
+    "company": "Yasin Foundation",
+    "contact": "081566778012",
+    "address": "Bogor, Jawa Barat",
+    "status": "Active",
+    "timestamp": "2026-09-02T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-013",
+    "name": "Travel CAW Nusantara",
+    "company": "CAW Tour & Travel",
+    "contact": "081344556013",
+    "address": "Jakarta Timur",
+    "status": "Active",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-014",
+    "name": "SMPI Nurul Fikri Peduli",
+    "company": "Sekolah Islam Nurul Fikri",
+    "contact": "081211223014",
+    "address": "Depok, Jawa Barat",
+    "status": "Active",
+    "timestamp": "2026-07-25T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-015",
+    "name": "Umair Logistik Indonesia",
+    "company": "PT Umair Express Logistik",
+    "contact": "081255667015",
+    "address": "Tanjung Priok, Jakarta Utara",
+    "status": "Active",
+    "timestamp": "2026-09-04T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-016",
+    "name": "Bu Lexy Collection",
+    "company": "Lexy Collection",
+    "contact": "081377889016",
+    "address": "Jakarta Pusat",
+    "status": "Active",
+    "timestamp": "2026-09-04T08:00:00.000Z",
+    "user": "Goro"
+  },
+  {
+    "id": "CUST-017",
+    "name": "Jembar Keramik Nusantara",
+    "company": "PT Jembar Keramik Nusantara",
+    "contact": "081988776017",
+    "address": "Cirebon, Jawa Barat",
+    "status": "Active",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Jembar"
+  },
+  {
+    "id": "CUST-018",
+    "name": "Beard Tactical & Outdoor",
+    "company": "Beard Apparel Co.",
+    "contact": "081199887018",
+    "address": "Bandung, Jawa Barat",
+    "status": "Active",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Beard"
+  }
+]

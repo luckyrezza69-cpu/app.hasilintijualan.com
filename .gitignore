@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env
+.env.local
+.env.production
+!.env.example
+*.zip
+scratch_*.json
+scratch_*.txt

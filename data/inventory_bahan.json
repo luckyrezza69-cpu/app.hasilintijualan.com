@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MAT-001",
+    "name": "Kain Cotton Combed 24s (Turquoise)",
+    "stock": 15,
+    "unit": "Kg",
+    "minStock": 5,
+    "price": 115000,
+    "category": "Bahan Baku",
+    "timestamp": "2026-08-20T08:00:00.000Z",
+    "user": "Budi Santoso"
+  },
+  {
+    "id": "MAT-002",
+    "name": "Kain Dryfit Milano (Putih & Biru)",
+    "stock": 45,
+    "unit": "Kg",
+    "minStock": 10,
+    "price": 95000,
+    "category": "Bahan Baku",
+    "timestamp": "2026-08-15T08:00:00.000Z",
+    "user": "Budi Santoso"
+  },
+  {
+    "id": "MAT-003",
+    "name": "Kain Spandek Rayon Super (Hitam/Navy)",
+    "stock": 12,
+    "unit": "Roll",
+    "minStock": 3,
+    "price": 1350000,
+    "category": "Bahan Baku",
+    "timestamp": "2026-08-25T08:00:00.000Z",
+    "user": "Budi Santoso"
+  },
+  {
+    "id": "MAT-004",
+    "name": "Kain CVC Lacoste 24s (Navy)",
+    "stock": 25,
+    "unit": "Kg",
+    "minStock": 8,
+    "price": 125000,
+    "category": "Bahan Baku",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Budi Santoso"
+  },
+  {
+    "id": "MAT-005",
+    "name": "Kain American Drill 1919 (Navy)",
+    "stock": 30,
+    "unit": "Meter",
+    "minStock": 10,
+    "price": 42000,
+    "category": "Bahan Baku",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Budi Santoso"
+  },
+  {
+    "id": "MAT-006",
+    "name": "Kain Katun Toyobo Fodu (Putih/Navy)",
+    "stock": 40,
+    "unit": "Meter",
+    "minStock": 10,
+    "price": 38000,
+    "category": "Bahan Baku",
+    "timestamp": "2026-09-01T08:00:00.000Z",
+    "user": "Budi Santoso"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "USR-001",
+    "username": "admin.rezza",
+    "password": "$pbkdf2$100000$73e0e88e337aa3d7854c0b8cda6fd04f$781d6861dd7825e9f02e44c9d1a4c30331848e81181daebc2dde92ee7fb294c9680af9a559bf231135b72ed755966c3bd2576982c1125c68c31027a4c803accc",
+    "name": "Rezza",
+    "role": "Super Admin",
+    "avatar": "https://picsum.photos/seed/rezza/100/100",
+    "allowedModules": [
+      "*"
+    ],
+    "timestamp": "2026-09-09T00:00:00.000Z",
+    "user": "System"
+  }
+]

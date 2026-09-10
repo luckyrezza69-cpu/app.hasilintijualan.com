@@ -1,0 +1,8 @@
+# Proteksi Eksekusi Script di Direktori Uploads HIJ Apps
+<FilesMatch "\.(php|phtml|php3|php4|php5|php7|phps|phar|inc|cgi|pl|py|sh|bash|exe|asp|aspx|jsp|svg)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+Options -ExecCGI -Indexes
+php_flag engine off

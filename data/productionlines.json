@@ -1,0 +1,23 @@
+[
+  {
+    "id": "A",
+    "name": "Line A - Kaos & Jersey Sublim",
+    "progress": 80,
+    "status": "On Track",
+    "operator": "Budi Santoso"
+  },
+  {
+    "id": "B",
+    "name": "Line B - Gamis & Celamis Alina/Muvaz",
+    "progress": 85,
+    "status": "On Track",
+    "operator": "Siti Aminah"
+  },
+  {
+    "id": "C",
+    "name": "Line C - Kemeja PDL, Polo & Jaket",
+    "progress": 70,
+    "status": "On Track",
+    "operator": "Agus Wijaya"
+  }
+]
